@@ -1,0 +1,8 @@
+public class besos {
+public static void main(String[] args){
+for(int contador =1;contador<=500;contador++)
+{
+System.out.println("😘"+ contador);
+}
+}
+}
